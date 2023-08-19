@@ -1,0 +1,132 @@
+header>*{
+    background-color: black;
+    color:azure;
+    border-radius:5px;
+}
+a{
+    color:white;
+    text-decoration:none;
+    font-size:30px;
+}
+h1{
+    font-size:90px;
+    display:inline;
+    margin:5px;
+}
+.hd{
+    display:flex;
+    justify-content:space-around;
+    align-items:stretch;
+    flex-direction:row;
+}
+.nh{
+    flex:20;
+}
+.ng{
+    flex:30;
+}
+.nd{
+    flex:5;
+}
+main{
+    background-color: black;
+    border-radius:5px;
+    width:100%;
+    height:100%;
+    margin:5px 0;
+}
+.lite{
+    font-size:125px;
+    color:#DC143C;
+    display:flex;
+    justify-content:space-around;
+    align-items:stretch;
+    flex-direction:row;
+}
+.empty{
+    flex:20;
+}
+.emp{
+    flex:20;
+}
+.em{
+    flex:16;
+}
+.place{
+    font-size:80px;
+    color:#DC143C;
+    display:flex;
+    justify-content:space-around;
+    align-items:stretch;
+    flex-direction:row;
+}
+.p{
+    flex:13;
+}
+.pl{
+    flex:20;
+}
+.pla{
+    flex:15;
+}
+.last{
+    font-size:90px;
+    color:#DC143C;
+    display:flex;
+    justify-content:space-around;
+    align-items:stretch;
+    flex-direction:row;
+}
+.l{
+    flex:23;
+}
+.la{
+    flex:20;
+}
+.las{
+    flex:20;
+}
+.image{
+    display:flex;
+    justify-content:space-around;
+    align-items:stretch;
+    flex-direction:row; 
+}
+.i{
+    flex:20;
+}
+.im{
+    flex:15;
+}
+.img{
+    flex:20;
+}
+.aboutus{
+    color:azure;
+    font-size:45px;
+    display:flex;
+    justify-content:space-around;
+    align-items:stretch;
+    flex-direction:row; 
+}
+.ab{
+    flex:20
+}
+.abt{
+    flex:20;
+}
+.s{
+    flex:40;
+}
+.su{
+    flex:20;
+}
+h2{
+    color:white;
+    font-size:70px;
+}
+.contakts{
+    display:inline-block;
+    color:#EE82EE;
+    font-size:50px;
+}
